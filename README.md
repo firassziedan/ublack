@@ -1,6 +1,8 @@
 # UBlack Theme for VSCode
 
-<img src="ublack.jpg" width="200" style="display:flex;margin: 30px auto; border-radius: 50%" />
+<p align="center">
+<img src="ublack.png" width="200" style="margin: 30px auto; border-radius: 50%" />
+</p>
 
 ## Description
 

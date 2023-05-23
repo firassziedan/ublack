@@ -4,9 +4,10 @@
   "displayName": "UBlack",
   "description": "UBlack is a dark theme for vscode with blues and greens.",
   "author": "Firass Ziedan <firass.ziedan@gmail.com>",
+  "publisher": "firassziedan",
   "repository": "https://github.com/firassziedan/ublack",
   "license": "MIT",
-  "icon": "ublack.jpg",
+  "icon": "ublack.png",
   "keywords": [
     "dark",
     "black",
