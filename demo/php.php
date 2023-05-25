@@ -1,5 +1,3 @@
-
-
 <?php
   // Comment
   $age = 100;

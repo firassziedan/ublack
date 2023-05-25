@@ -8,9 +8,7 @@ const joe = function () { };
 
 const wes = 100;
 
-function wes() {
-
-}
+function wes() {}
 
 const wes = () => { };
 

@@ -144,7 +144,7 @@
 			"name": "Library variable",
 			"scope": "support.other.variable",
 			"settings": {
-				"fontStyle": ""
+				"fontStyle": "#60778c"
 			}
 		},
 		{
@@ -346,8 +346,7 @@
 				"meta.image.inline.markdown"
 			],
 			"settings": {
-				"foreground": "#007aae",
-				"fontStyle": ""
+				"foreground": "#007aae"
 			}
 		},
 		{
@@ -472,6 +471,7 @@
 		"panel.border": "#3b4651",
 		"panelTitle.inactiveForeground": "#60778c",
 		"panelTitle.activeBorder": "#007aae8e",
+		"scrollbar.shadow": "#0c0e10",
 		"scrollbarSlider.activeBackground": "#007aae8e",
 		"scrollbarSlider.background": "#3b4651",
 		"scrollbarSlider.hoverBackground": "#007aae8e",
@@ -521,7 +521,6 @@
 		"editorOverviewRuler.errorForeground": "#e61f44",
 		"editorOverviewRuler.warningForeground": "#f7b83d",
 		"editorOverviewRuler.infoForeground": "#dfdfdf",
-		"scrollbar.shadow": "#0c0e10",
 		"editorSuggestWidget.highlightForeground": "#007aae8e",
 		"editorSuggestWidget.foreground": "#dfdfdf",
 		"editorSuggestWidget.selectedBackground": "#3b4651"
