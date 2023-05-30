@@ -482,7 +482,7 @@
 		"gitDecoration.modifiedResourceForeground": "#f7b83d",
 		"gitDecoration.deletedResourceForeground": "#e61f44",
 		"gitDecoration.untrackedResourceForeground": "#a7da1e",
-		"gitDecoration.ignoredResourceForeground": "#3b4651",
+		"gitDecoration.ignoredResourceForeground": "#a3a3a3",
 		"gitDecoration.conflictingResourceForeground": "#dfdfdf",
 		"editorBracketMatch.background": "#007aae8e",
 		"editorBracketMatch.border": "#8a9daf",

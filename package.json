@@ -1,6 +1,6 @@
 {
   "name": "ublack",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "displayName": "UBlack",
   "description": "Clean & Simple Dark theme for VS Code.",
   "author": "Firass Ziedan <firass.ziedan@gmail.com>",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "icon": "ublack.png",
   "galleryBanner": {
-    "color": "#007aae8e",
+    "color": "#00364e",
     "theme": "dark"
   },
   "keywords": [
